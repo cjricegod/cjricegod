@@ -1,15 +1,9 @@
-# Student Developer
+# Web, Mobile and Game Developer.
 
-## Web, Mobile and Game Developer.
+My name is CJ.
 
-I have a passion for Computer Science Communities
-
-I have a passion for Web Design
-
-I have a passion for Game Design
-
-I have a passion for teaching
-
-I have a passion for learning everyday
-
-And many more.
+My passion lies in Technology and Innovation.
+My work lies inbetween Full-Stack Development, System Design, Applied-AI and Game Development.
+My purpose is to be the change in the world that makes the everyday just a little bit better.
+That could be in entertainment, efficiency or discovery.
+I believe that we are at the verge of great innovations everyday, we just have to be there to seek it.
